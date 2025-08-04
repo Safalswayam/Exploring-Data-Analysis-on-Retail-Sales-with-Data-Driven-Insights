@@ -47,19 +47,15 @@ To clean, analyze, and visualize retail sales data in order to:
 ---
 
 ## 📎 Folder Structure
-
+```
 Retail_Sales_EDA/
 │
-
 ├── Retail_Sales_EDA.ipynb # Jupyter notebook with full EDA
-
 ├── retail_sales_dataset.csv # Original dataset
-
 ├── README.md # Project documentation
-
 ├── requirements.txt # Libraries used
+```
 
----
 
 ## 📈 Sample Visualizations
 
